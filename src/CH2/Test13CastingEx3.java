@@ -1,7 +1,7 @@
 package CH2;
 
 public class Test13CastingEx3 {
-	public static void maint(String[] args) {
+	public static void main(String[] args) {
 		float f = 9.1234567f;
 		double d = 9.1234567;
 		double d2 = (double)f;

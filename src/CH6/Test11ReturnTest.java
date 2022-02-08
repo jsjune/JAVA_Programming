@@ -1,8 +1,8 @@
 package CH6;
 
-public class Test10ReturnTest {
+public class Test11ReturnTest {
 	public static void main(String[] args) {
-		Test10ReturnTest r = new Test10ReturnTest();
+		Test11ReturnTest r = new Test11ReturnTest();
 		
 		int result = r.add(3, 5);
 		System.out.println(result);
